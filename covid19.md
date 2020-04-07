@@ -6,6 +6,6 @@ A modell licensze [Creative Commons 4.0](https://creativecommons.org/licenses/by
 
 ## Javasolt szeletelő beállítások a sebesség növelésének érdekében
 
-Cura 4.5 szeletelőt használok, így a lenti leírás erre vonatkozik. A legtöbb beállítás megtalálható más szeletelőkben is, esetlegesen más néven. Emellett a stl fájlok mellett 3mf fájlokat is megosztok amik már tartalmazzák a fontosabb beállítások ugyanakkor ezt érdemes körültekintéssel használni ugyanis tartalmazhat az csak az én nyomtatómra érvényes beállításokat is (pl Layer start point nálam 220/220).
+Cura 4.5 szeletelőt használok, így a lenti leírás erre vonatkozik. A legtöbb beállítás megtalálható más szeletelőkben is, esetlegesen más néven. Az stl fájlok mellett 3mf fájlokat is megosztok amik már tartalmazzák a fontosabb beállításokat ugyanakkor ezt érdemes körültekintéssel használni ugyanis tartalmazhat csak az én nyomtatómra érvényes beállításokat is (pl Layer start point nálam 220/220).
 
 
