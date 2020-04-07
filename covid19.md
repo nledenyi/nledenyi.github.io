@@ -2,7 +2,7 @@
 
 Az eredeti modellt a Josef Prusa neve által fémjelzett cég készítette: [https://www.prusa3d.com/covid19/](https://www.prusa3d.com/covid19/)
 
-A modell licensze [Creative Commons 4.0](https://creativecommons.org/licenses/by-nc/4.0/) melyet a lenti fájlok is alkalmaznak. Rövid dióhéjban: osztani ér, módosítani ér, pénzért árulni nem.
+A modell licensze [Creative Commons 4.0](https://creativecommons.org/licenses/by-nc/4.0/) melyet a lenti fájlok is alkalmaznak. Röviden dióhéjban: osztani ér, módosítani ér, pénzért árulni nem.
 
 ## Javasolt szeletelő beállítások a sebesség növelésének érdekében
 
