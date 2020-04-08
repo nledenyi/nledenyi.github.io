@@ -9,4 +9,5 @@ A modell licensze [Creative Commons 4.0](https://creativecommons.org/licenses/by
 Cura 4.5 szeletelőt használok, így a lenti leírás erre vonatkozik. A legtöbb beállítás megtalálható más szeletelőkben is, esetlegesen más néven. Az stl fájlok mellett 3mf fájlokat is megosztok amik már tartalmazzák a fontosabb beállításokat ugyanakkor ezt érdemes körültekintéssel használni ugyanis tartalmazhat csak az én nyomtatómra érvényes beállításokat is (pl Layer start point nálam 220/220).
 
 Beállítások:
-
+- layer height: 0.3
+- line width: 0.6
