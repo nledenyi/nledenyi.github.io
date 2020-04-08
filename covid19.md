@@ -4,6 +4,22 @@ Az eredeti modellt a Josef Prusa neve által fémjelzett cég készítette: [htt
 
 A modell licensze [Creative Commons 4.0](https://creativecommons.org/licenses/by-nc/4.0/) melyet a lenti fájlok is alkalmaznak. Röviden dióhéjban: osztani ér, módosítani ér, pénzért árulni nem.
 
+## Változtatások az eredeti modellhez képest
+
+- alacsonyabb magasság
+  - gyorsabb nyomtatás, kevesebb anyagigény
+- optimalizálás 0.3mm layer height-ra
+  - az eredeti 0.25mm-re volt optimalizálva, de 0.4mm-es nozzle-el még lehet 0.3mm rétegvastagságot is nyomtatni ami gyorsabb
+  - emellett a torony esetében a két darab közötti távolság is 0.25mm-re volt állítva és a support-ok alátámasztása is 0.25mm egész többszöröse volt, ezek mind át lettek alakítva 0.3-as rétegvastagsághoz
+- feliratok eltávoltása
+  - szeretjük Prusát, de a feliratok lassítják a nyomtatást
+- több távtartó pont a két darab között 
+  - ez tornyok esetében érvényes és a könnyebb szétválasztást segíti elő
+- flexi tartó pöckökhöz szükséges support torony tárgytól való távolsága minimálisan növelve
+  - erre azért volt szükség, hogy a magasabb line width miatt ne olvadjon össze a support a tárggyal
+- 1 és 4 darabos modell mellett 2 és 6 darabos is elérhető
+  - többféle modell az idő hatékonyabb kihasználását teszi lehetővé
+
 ## Javasolt szeletelő beállítások a sebesség növelésének érdekében
 
 Cura 4.5 szeletelőt használok, így a lenti leírás erre vonatkozik. A legtöbb beállítás megtalálható más szeletelőkben is, esetlegesen más néven. Az stl fájlok mellett 3mf fájlokat is megosztok amik már tartalmazzák a fontosabb beállításokat ugyanakkor ezt érdemes körültekintéssel használni ugyanis tartalmazhat csak az én nyomtatómra érvényes beállításokat is (pl Layer start point nálam 220/220).
