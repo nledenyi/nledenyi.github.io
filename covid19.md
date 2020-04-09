@@ -1,4 +1,6 @@
-## Használt modell és források
+# 3D nyomtatással a koronavírus ellen
+
+## Eredeti modell
 
 Az eredeti modellt a Josef Prusa neve által fémjelzett cég készítette: [https://www.prusa3d.com/covid19/](https://www.prusa3d.com/covid19/)
 
@@ -30,7 +32,9 @@ Beállítások:
   - line width: 0.6 (0.4-es nozzle-is lehet 0.6-ost nyomtatni. Ha ez mégse lehetséges, akkor line width 0.4 és wall thickness 0.8)
 - Shell:
   - wall thickness: 0.6
+  - top/bottom pattern: concentric
   - optimize wall printing order: be
+  - print thin walls: be
   - Z seam alignment: sharpest corner
 - Infill:
   - infill density: 10%
@@ -52,7 +56,7 @@ Mivel az infill 10% viszonylag alacson, ezért megerősítés céljából két p
 
 Amennyiben a szeletelő nem támogat ilyen funkciót, úgy ennek hiányában inkább a 30%-os infill-t javaslom mindenhol.
 
-A fenti beállításokkal 1 óra 30 perc alatti idő elérhető még 90mm/s-el is per darab.
+A fenti beállításokkal 1 óra 30 perc alatti idő elérhető még 90mm/s-el is darabonként.
 
 ## Modell fájlok
 
