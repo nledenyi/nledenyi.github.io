@@ -6,11 +6,13 @@ Az eredeti modellt a Josef Prusa neve által fémjelzett cég készítette: [htt
 
 A modell licensze [Creative Commons 4.0](https://creativecommons.org/licenses/by-nc/4.0/) melyet a lenti fájlok is alkalmaznak. Röviden dióhéjban: osztani ér, módosítani ér, pénzért árulni nem.
 
+Az eredeti modellhez képest szerettem volna pár változtatást eszközölni és nem találtam olyan elérhető modellt ami mindenben megfelelt volna, ezért Fusion 360-ban megcsináltam és lenti minden fájlt elérhetővé teszek hátha másnak is hasznos.
+
 ## Változtatások az eredeti modellhez képest
 
-- alacsonyabb magasság
+- alacsonyabb magasság (20mm helyett 15mm)
   - gyorsabb nyomtatás, kevesebb anyagigény
-- optimalizálás 0.3mm layer height-ra
+- optimalizálás 0.3mm layer height-ra (0.25mm helyett)
   - az eredeti 0.25mm-re volt optimalizálva, de 0.4mm-es nozzle-el még lehet 0.3mm rétegvastagságot is nyomtatni ami gyorsabb
   - emellett a torony esetében a két darab közötti távolság is 0.25mm-re volt állítva és a support-ok alátámasztása is 0.25mm egész többszöröse volt, ezek mind át lettek alakítva 0.3-as rétegvastagsághoz
 - feliratok eltávoltása
