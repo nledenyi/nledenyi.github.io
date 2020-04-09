@@ -79,3 +79,9 @@ Fusion 360 és .step fájlok:
 6 darabos torony:
 - [RC3-mini-remix-stack6.stl](3d_models/RC3-mini-remix-stack6.stl)
 - [RC3-mini-remix-stack6.3mf](3d_models/RC3-mini-remix-stack6.3mf)
+
+## Képek
+
+![](images/img1.jpg)
+
+![](images/img2.jpg)
