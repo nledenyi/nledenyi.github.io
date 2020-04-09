@@ -50,7 +50,7 @@ Beállítások:
 - Experimental:
   - infill travel optimization: be
 
-Mivel az infill 10% viszonylag alacson, ezért megerősítés céljából két ponton megnövelt infill-t használtam, amit a support blocker-ek elhelyezésével lehet elérni Cura-ban, majd a "Modify settings for overlaps" opció használatával megnövelni 50%-ra az infill-t azon a területen. A csatolt .3mf fájlok ezt már tartalmazzák. 
+Mivel az infill 10% viszonylag alacsony, ezért megerősítés céljából két ponton megnövelt infill-t használtam, amit a support blocker-ek elhelyezésével lehet elérni Cura-ban, majd a "Modify settings for overlaps" opció használatával megnövelni 50%-ra az infill-t azon a területen. A csatolt .3mf fájlok ezt már tartalmazzák. 
 
 ![](images/cura-infill.png)
 
