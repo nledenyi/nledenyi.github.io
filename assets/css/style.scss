@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-cayman";
+@import "{{ site.theme }}";
 body {
     font-family: Helvetica, Arial, sans-serif;
   }
