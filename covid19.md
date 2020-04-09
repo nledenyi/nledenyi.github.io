@@ -6,7 +6,7 @@ Az eredeti modellt a Josef Prusa neve által fémjelzett cég készítette: [htt
 
 A modell licensze [Creative Commons 4.0](https://creativecommons.org/licenses/by-nc/4.0/) melyet a lenti fájlok is alkalmaznak. Röviden dióhéjban: osztani ér, módosítani ér, pénzért árulni nem.
 
-Az eredeti modellhez képest szerettem volna pár változtatást eszközölni és nem találtam olyan elérhető modellt ami mindenben megfelelt volna, ezért Fusion 360-ban megcsináltam és lenti minden fájlt elérhetővé teszek hátha másnak is hasznos.
+Az eredeti modellhez képest szerettem volna pár változtatást eszközölni és nem találtam olyan elérhető modellt ami mindenben megfelelt volna, ezért Fusion 360-ban megcsináltam és az oldal alján minden fájlt elérhetővé teszek hátha másnak is hasznos.
 
 ## Változtatások az eredeti modellhez képest
 
